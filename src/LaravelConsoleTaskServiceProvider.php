@@ -5,13 +5,13 @@ declare(strict_types=1);
 /**
  * This file is part of Laravel Console Task.
  *
- * (c) Nuno Maduro <enunomaduro@gmail.com>
+ * (c) Nuno Maduro <rameshpallikara@gmail.com>
  *
  *  For the full copyright and license information, please view the LICENSE
  *  file that was distributed with this source code.
  */
 
-namespace NunoMaduro\LaravelConsoleTask;
+namespace RamPall\LaravelConsoleTask;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\ServiceProvider;
@@ -19,7 +19,7 @@ use Illuminate\Support\ServiceProvider;
 /**
  * This is an Laravel Console Task Service Provider implementation.
  *
- * @author Nuno Maduro <enunomaduro@gmail.com>
+ * @author Nuno Maduro <rameshpallikara@gmail.com>
  */
 class LaravelConsoleTaskServiceProvider extends ServiceProvider
 {

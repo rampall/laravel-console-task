@@ -5,16 +5,16 @@ declare(strict_types=1);
 /**
  * This file is part of Laravel Console Task.
  *
- * (c) Nuno Maduro <enunomaduro@gmail.com>
+ * (c) Nuno Maduro <rameshpallikara@gmail.com>
  *
  *  For the full copyright and license information, please view the LICENSE
  *  file that was distributed with this source code.
  */
 
-namespace NunoMaduro\Tests\LaravelConsoleTask;
+namespace RamPall\Tests\LaravelConsoleTask;
 
 use Illuminate\Console\Command;
-use NunoMaduro\LaravelConsoleTask\LaravelConsoleTaskServiceProvider;
+use RamPall\LaravelConsoleTask\LaravelConsoleTaskServiceProvider;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -22,7 +22,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 /**
  * This is the service provider test class.
  *
- * @author Nuno Maduro <enunomaduro@gmail.com>
+ * @author Nuno Maduro <rameshpallikara@gmail.com>
  */
 class LaravelConsoleTaskTest extends TestCase
 {

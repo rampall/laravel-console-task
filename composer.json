@@ -1,16 +1,25 @@
 {
-    "name": "nunomaduro/laravel-console-task",
+    "name": "rampall/laravel-console-task",
     "description": "Laravel Console Task is a output method for your Laravel/Laravel Zero commands.",
-    "keywords": ["console", "command-line", "php", "cli", "laravel-zero", "laravel", "artisan", "symfony"],
+    "keywords": [
+        "console",
+        "command-line",
+        "php",
+        "cli",
+        "laravel-zero",
+        "laravel",
+        "artisan",
+        "symfony"
+    ],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/nunomaduro/laravel-console-task/issues",
-        "source": "https://github.com/nunomaduro/laravel-console-task"
+        "issues": "https://github.com/rampall/laravel-console-task/issues",
+        "source": "https://github.com/rampall/laravel-console-task"
     },
     "authors": [
         {
             "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "email": "rameshpallikara@gmail.com"
         }
     ],
     "require": {
@@ -23,7 +32,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NunoMaduro\\LaravelConsoleTask\\": "src/"
+            "RamPall\\LaravelConsoleTask\\": "src/"
         }
     },
     "config": {
@@ -33,7 +42,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "NunoMaduro\\LaravelConsoleTask\\LaravelConsoleTaskServiceProvider"
+                "RamPall\\LaravelConsoleTask\\LaravelConsoleTaskServiceProvider"
             ]
         }
     },

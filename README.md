@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://styleci.io/repos/113789331"><img src="https://styleci.io/repos/113789331/shield" alt="StyleCI Status"></img></a>
-  <a href="https://scrutinizer-ci.com/g/nunomaduro/laravel-console-task"><img src="https://img.shields.io/scrutinizer/g/nunomaduro/laravel-console-task.svg" alt="Quality Score"></img></a>
-  <a href="https://packagist.org/packages/nunomaduro/laravel-console-task"><img src="https://poser.pugx.org/nunomaduro/laravel-console-task/d/total.svg" alt="Total Downloads"></a>
-  <a href="https://packagist.org/packages/nunomaduro/laravel-console-task"><img src="https://poser.pugx.org/nunomaduro/laravel-console-task/v/stable.svg" alt="Latest Stable Version"></a>
-  <a href="https://packagist.org/packages/nunomaduro/laravel-console-task"><img src="https://poser.pugx.org/nunomaduro/laravel-console-task/license.svg" alt="License"></a>
+  <a href="https://scrutinizer-ci.com/g/rampall/laravel-console-task"><img src="https://img.shields.io/scrutinizer/g/rampall/laravel-console-task.svg" alt="Quality Score"></img></a>
+  <a href="https://packagist.org/packages/rampall/laravel-console-task"><img src="https://poser.pugx.org/rampall/laravel-console-task/d/total.svg" alt="Total Downloads"></a>
+  <a href="https://packagist.org/packages/rampall/laravel-console-task"><img src="https://poser.pugx.org/rampall/laravel-console-task/v/stable.svg" alt="Latest Stable Version"></a>
+  <a href="https://packagist.org/packages/rampall/laravel-console-task"><img src="https://poser.pugx.org/rampall/laravel-console-task/license.svg" alt="License"></a>
 </p>
 
 ## About Laravel Console Task
 
-Laravel Console Task was created by, and is maintained by [Nuno Maduro](https://github.com/nunomaduro), and is output method for Laravel Console Commands.
+Laravel Console Task was created by, and is maintained by [Nuno Maduro](https://github.com/rampall), and is output method for Laravel Console Commands.
 
 ## Installation
 
@@ -23,7 +23,7 @@ Laravel Console Task was created by, and is maintained by [Nuno Maduro](https://
 Require Laravel Console Task using [Composer](https://getcomposer.org):
 
 ```bash
-composer require nunomaduro/laravel-console-task
+composer require rampall/laravel-console-task
 ```
 
 ## Usage
@@ -53,7 +53,7 @@ class LaravelInstallCommand extends Command
 
 Thank you for considering to contribute to Laravel Console Task. All the contribution guidelines are mentioned [here](CONTRIBUTING.md).
 
-You can have a look at the [CHANGELOG](CHANGELOG.md) for constant updates & detailed information about the changes. You can also follow the twitter account for latest announcements or just come say hi!: [@enunomaduro](https://twitter.com/enunomaduro)
+You can have a look at the [CHANGELOG](CHANGELOG.md) for constant updates & detailed information about the changes. You can also follow the twitter account for latest announcements or just come say hi!: [@rameshpallikara](https://twitter.com/rameshpallikara)
 
 ## License
 
